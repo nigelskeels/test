@@ -10,7 +10,6 @@ Clone the app:
 
 ```bash
 git clone https://github.com/nigelskeels/test.git
-cd react-typescript-todo-app
 ```
 
 Install dependencies:
