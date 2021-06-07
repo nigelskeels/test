@@ -4,6 +4,11 @@
 
 This app was created with React TypeScript 
 
+https://www.hypermodernism.com/work/borrowaboattest/index.html
+
+https://www.hypermodernism.com/work/borrowaboattest/demo_running.mp4
+
+
 ## Clone and Run the App
 
 Clone the app:
@@ -14,14 +19,20 @@ git clone https://github.com/nigelskeels/test.git
 
 Install dependencies:
 
-```bash
-yarn
+```
+npm install
 ```
 
 Run the app:
 
 ```
-yarn start
+npm start
+```
+
+Run the Tests:
+
+```
+npm test
 ```
 
 ## Notes
