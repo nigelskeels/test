@@ -4,12 +4,6 @@
 
 This app was created with React TypeScript 
 
-###Demo
-https://www.hypermodernism.com/work/borrowaboattest/index.html
-
-###Video
-https://www.hypermodernism.com/work/borrowaboattest/demo_running.mp4
-
 
 
 ## Clone and Run the App
